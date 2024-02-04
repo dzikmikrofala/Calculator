@@ -125,6 +125,7 @@ class Program
                         goto liczbaponow;
                     }
                 }
+                Console.Clear();
                 goto poczatek;
             }
             else if (more == "no")
